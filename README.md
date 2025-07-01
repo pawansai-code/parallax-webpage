@@ -26,6 +26,3 @@ background-attachment: fixed;)
 - Centering text horizontally and vertically
 
 - Creating visually appealing page flow without JavaScript
-
-Basic responsive behavior using:
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
