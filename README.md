@@ -13,11 +13,11 @@ No frameworks or JavaScript were used — it is entirely frontend and beginner-f
 How to implement parallax effect using:
   
  example: 
-position: relative;
+(position: relative;
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
-background-attachment: fixed;
+background-attachment: fixed;)
 
 - Styling light and dark content sections
 
