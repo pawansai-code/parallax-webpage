@@ -6,7 +6,7 @@ No frameworks or JavaScript were used — it is entirely frontend and beginner-f
 
 🧠 What You Can Learn from This Project
  HTML:
-- Semantic structure (<section>, <footer>, etc.)
+- Semantic structure (section, footer, etc.)
 - Organizing content using headings and paragraphs
 - Overlay text structure
 
